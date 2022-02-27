@@ -1,0 +1,19 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "newsletter signup form using node+express & mailchimp API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingwolf-at/newsletter-signup.git"
+  },
+  "author": "Atul Tameshwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingwolf-at/newsletter-signup/issues"
+  },
+  "homepage": "https://github.com/codingwolf-at/newsletter-signup#readme"
+}
