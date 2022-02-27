@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/codingwolf-at/newsletter-signup/issues"
   },
-  "homepage": "https://github.com/codingwolf-at/newsletter-signup#readme"
+  "homepage": "https://github.com/codingwolf-at/newsletter-signup#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
 }
